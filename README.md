@@ -130,7 +130,7 @@ Each blockchain module is independently optimized for maximum scanning speed and
 | Component | Requirement |
 |-----------|-------------|
 | **OS** | Windows 10+, macOS 12+, Ubuntu 20+ |
-| **CPU** | 4-core processor (8+ recommended) |
+| **CPU** | 2-core processor (4+ recommended) |
 | **RAM** | 4 GB (8 GB recommended) |
 | **Storage** | 500 MB available space |
 | **Network** | Broadband internet connection |
@@ -139,7 +139,7 @@ Each blockchain module is independently optimized for maximum scanning speed and
 
 | Component | Recommendation |
 |-----------|----------------|
-| **CPU** | 8-core+ processor (Intel i7/AMD Ryzen 7 or better) |
+| **CPU** | 4-core+ processor |
 | **RAM** | 8 GB+ |
 | **Storage** | SSD with 1 GB+ free space |
 | **Network** | Stable broadband connection |
