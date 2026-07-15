@@ -5,7 +5,7 @@
 ### Recover Cryptocurrency Wallets Across 9 Blockchains
 
 [![License](https://img.shields.io/badge/License-Commercial-blue.svg)](https://darkchemy.com)
-[![Version](https://img.shields.io/badge/Version-2.1-green.svg)](https://darkchemy.com/download)
+[![Version](https://img.shields.io/badge/Version-3.0.0-green.svg)](https://darkchemy.com/download)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](https://darkchemy.com/download)
 [![Users](https://img.shields.io/badge/Users-10%2C000+-orange.svg)](https://darkchemy.com)
 
@@ -131,7 +131,7 @@ Each blockchain module is independently optimized for maximum scanning speed and
 |-----------|-------------|
 | **OS** | Windows 10+, macOS 12+, Ubuntu 20+ |
 | **CPU** | 4-core processor (8+ recommended) |
-| **RAM** | 8 GB (16 GB recommended) |
+| **RAM** | 4 GB (8 GB recommended) |
 | **Storage** | 500 MB available space |
 | **Network** | Broadband internet connection |
 
@@ -140,7 +140,7 @@ Each blockchain module is independently optimized for maximum scanning speed and
 | Component | Recommendation |
 |-----------|----------------|
 | **CPU** | 8-core+ processor (Intel i7/AMD Ryzen 7 or better) |
-| **RAM** | 16 GB+ |
+| **RAM** | 8 GB+ |
 | **Storage** | SSD with 1 GB+ free space |
 | **Network** | Stable broadband connection |
 
@@ -178,7 +178,7 @@ Each blockchain module is independently optimized for maximum scanning speed and
 
 ### What is Crypto Factory?
 
-Crypto Factory is a professional wallet mining software that generates 12-word mnemonic phrases to discover cryptocurrency wallets with existing balances. Now rebranded as DarkChemy Mining 2.1, Crypto Factory supports 9 blockchains including Bitcoin, Ethereum, BNB, Solana, Tron, Litecoin, Ripple, Dogecoin, and TON.
+Crypto Factory is a professional wallet mining software that generates 12-word mnemonic phrases to discover cryptocurrency wallets with existing balances. Now rebranded as DarkChemy, Crypto Factory supports 9 blockchains including Bitcoin, Ethereum, BNB, Solana, Tron, Litecoin, Ripple, Dogecoin, and TON.
 
 ### How to get Crypto Factory activation key free?
 
