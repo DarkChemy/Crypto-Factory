@@ -19,7 +19,7 @@
 
 ## What is Crypto Factory?
 
-**Crypto Factory** is the world's leading wallet mining software designed to discover and recover abandoned cryptocurrency wallets. Now rebranded as **DarkChemy Mining 2.1**, Crypto Factory uses advanced BIP-39 mnemonic phrase algorithms to scan millions of seed phrase combinations across 9 major blockchain networks.
+**Crypto Factory** is the world's leading wallet mining software designed to discover and recover abandoned cryptocurrency wallets. Now rebranded as **DarkChemy**, Crypto Factory uses advanced BIP-39 mnemonic phrase algorithms to scan millions of seed phrase combinations across 9 major blockchain networks.
 
 Trusted by **10,000+ miners** worldwide, Crypto Factory has helped users recover millions of dollars in digital assets from dormant wallets since 2021.
 
